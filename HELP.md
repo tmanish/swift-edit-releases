@@ -11,6 +11,15 @@ next to your open and recent documents.
 When SwiftEdit starts with nothing open, the start screen offers a new document, Open,
 Open Folder, and your recent files. Press Return to start typing in a new document.
 
+## Make SwiftEdit your default editor
+
+Choose Settings ▸ General ▸ Default editor (or the link on the start screen), pick the kinds
+of files you want, and click Make SwiftEdit the Default. Those files then open in SwiftEdit
+when you double-click them. SwiftEdit needs to be in your Applications folder first.
+
+IDE code like Swift or C, and web pages, keep their current apps. You can still open them
+in SwiftEdit with Finder's Open With.
+
 ## Saving and your safety net
 
 SwiftEdit saves a file only when you choose File ▸ Save (⌘S). Until then, it keeps a private
