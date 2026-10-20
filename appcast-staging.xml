@@ -1,19 +1,28 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" encoding="utf-8"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>SwiftEdit</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Mon, 19 Oct 2026 20:12:01 -0400</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="IGyA6uwYGUWd5wD/rIt0exVIiRGMiN6ZpCvYUAHzOkiW9IVyxiza3p15bxit2dYlEpWmMi1tnSAwn094WSZzDw==" sparkle:length="574">https://github.com/tmanish/swift-edit-releases/releases/download/staging-1.0.0-13/SwiftEdit-1.0.0-13.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/tmanish/swift-edit-releases/releases/download/staging-1.0.0-13/SwiftEdit-1.0.0-13.dmg" length="6047373" type="application/octet-stream" sparkle:edSignature="IHiZ+NAmhgfb+UNZCYzpezs+cFl0TwuUybifS+lEaO+qXeFnWRpFvmqFe1QuWxzRECkowhwtZZVC+gDOC2dyCw=="/>
+        </item>
+        <item xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+            <title>1.0.0</title>
             <pubDate>Mon, 19 Oct 2026 19:10:18 -0400</pubDate>
             <sparkle:version>12</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink sparkle:edSignature="IGyA6uwYGUWd5wD/rIt0exVIiRGMiN6ZpCvYUAHzOkiW9IVyxiza3p15bxit2dYlEpWmMi1tnSAwn094WSZzDw==" sparkle:length="574">https://github.com/tmanish/swift-edit-releases/releases/download/staging-1.0.0-12/SwiftEdit-1.0.0-12.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/tmanish/swift-edit-releases/releases/download/staging-1.0.0-12/SwiftEdit-1.0.0-12.dmg" length="6047442" type="application/octet-stream" sparkle:edSignature="OiM+rLRu7KyBiwr7L7kSU2VWdbjF1VoK1cLrXviiPdqs3g6w4PajZGsC50au+tt09rMU53/JQnoJrolQyz+cAA=="></enclosure>
+            <enclosure url="https://github.com/tmanish/swift-edit-releases/releases/download/staging-1.0.0-12/SwiftEdit-1.0.0-12.dmg" length="6047442" type="application/octet-stream" sparkle:edSignature="OiM+rLRu7KyBiwr7L7kSU2VWdbjF1VoK1cLrXviiPdqs3g6w4PajZGsC50au+tt09rMU53/JQnoJrolQyz+cAA=="/>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Exjh0SZhKfseT52sKGVUh5MTssUtplRLPaFT03G+y2HywsIYhqIkq8DWZ2HfDhfc4E/05zTampmV1kG0jKQABQ==
-length: 1368
+edSignature: GUkw1DGE69VdgYTN/kDSdxgFomp6X+46YOwYrxfd4rSVj7r/qERS6N45+Tda4uyQXhde0DpqFscUVhXEn7dACg==
+length: 2352
 -->
