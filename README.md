@@ -1,6 +1,10 @@
-# SwiftEdit
+<p align="center">
+  <img src="assets/swiftedit-icon.png" width="128" height="128" alt="SwiftEdit app icon">
+</p>
 
-A calm, native editor for text, code, and Markdown on the Mac.
+<h1 align="center">SwiftEdit</h1>
+
+<p align="center">A calm, native editor for text, code, and Markdown on the Mac.</p>
 
 > **About this repository:** this is where SwiftEdit's releases, update feed, and user guide
 > live. SwiftEdit's source code is private and isn't published here.
@@ -39,8 +43,8 @@ What each download is:
 - **`.dmg.sha256`** is the file's checksum, if you want to confirm the download is intact.
 - **`.md`** holds that version's release notes, which SwiftEdit shows when it offers an update.
 - **Source code (zip / tar.gz)** links are added automatically by GitHub to every release.
-  They contain only this repository's documentation and update feed, not SwiftEdit's
-  source code, which is private.
+  They contain only this repository's documentation, app icon, and update feed, not
+  SwiftEdit's source code, which is private.
 
 Releases labeled **Pre-release** are test builds used to check the update process before a
 public version ships. They look for updates on a separate test feed, so they won't receive
