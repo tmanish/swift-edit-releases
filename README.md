@@ -33,6 +33,19 @@ macOS 14 Sonoma or later, on Apple silicon or Intel.
 
 Each release is signed with the developer's Apple Developer ID and notarized by Apple.
 
+What each download is:
+
+- **`SwiftEdit-VERSION-BUILD.dmg`** is the app. This is the one to download.
+- **`.dmg.sha256`** is the file's checksum, if you want to confirm the download is intact.
+- **`.md`** holds that version's release notes, which SwiftEdit shows when it offers an update.
+- **Source code (zip / tar.gz)** links are added automatically by GitHub to every release.
+  They contain only this repository's documentation and update feed, not SwiftEdit's
+  source code, which is private.
+
+Releases labeled **Pre-release** are test builds used to check the update process before a
+public version ships. They look for updates on a separate test feed, so they won't receive
+regular updates. Please use the latest release without that label.
+
 ## Updates
 
 SwiftEdit can look for new versions on its own. It asks you first, and you can change your
