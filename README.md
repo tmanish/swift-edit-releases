@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/swiftedit-icon.png" width="128" height="128" alt="SwiftEdit app icon">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/swiftedit-icon-dark.png">
+    <img src="assets/swiftedit-icon.png" width="128" height="128" alt="SwiftEdit app icon">
+  </picture>
 </p>
 
 <h1 align="center">SwiftEdit</h1>
