@@ -34,7 +34,8 @@ macOS 14 Sonoma or later, on Apple silicon or Intel.
 
 ## Download and install
 
-1. Download the latest `.dmg` from [Releases](https://github.com/tmanish/swift-edit-releases/releases/latest).
+1. [Download SwiftEdit](https://github.com/tmanish/swift-edit-releases/releases/latest/download/SwiftEdit.dmg)
+   (always the latest version), or pick a file from [Releases](https://github.com/tmanish/swift-edit-releases/releases/latest).
 2. Open it and drag SwiftEdit to the Applications folder.
 3. Eject the disk image, then open SwiftEdit from Applications.
 
@@ -42,7 +43,9 @@ Each release is signed with the developer's Apple Developer ID and notarized by 
 
 What each download is:
 
-- **`SwiftEdit-VERSION-BUILD.dmg`** is the app. This is the one to download.
+- **`SwiftEdit.dmg`** is the app. This is the one to download.
+- **`SwiftEdit-VERSION-BUILD.dmg`** is the same app, byte for byte, under its versioned name.
+  The update feed points to this copy.
 - **`.dmg.sha256`** is the file's checksum, if you want to confirm the download is intact.
 - **`.md`** holds that version's release notes, which SwiftEdit shows when it offers an update.
 - **Source code (zip / tar.gz)** links are added automatically by GitHub to every release.
