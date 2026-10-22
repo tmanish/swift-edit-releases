@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>SwiftEdit</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 22 Oct 2026 00:08:38 -0400</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink sparkle:edSignature="IGyA6uwYGUWd5wD/rIt0exVIiRGMiN6ZpCvYUAHzOkiW9IVyxiza3p15bxit2dYlEpWmMi1tnSAwn094WSZzDw==" sparkle:length="574">https://github.com/tmanish/swift-edit-releases/releases/download/v1.0.0-14/SwiftEdit-1.0.0-14.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/tmanish/swift-edit-releases/releases/download/v1.0.0-14/SwiftEdit-1.0.0-14.dmg" length="5890104" type="application/octet-stream" sparkle:edSignature="O4V9hzf+36wajbYRwiXZtVT1rx2az6GT5sq2MGU2qdlJwXROmNB/1VPlZVFJusQEWC7ubodiKepMirtjVivjBA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: 8MYqJamvTh1aGr1bM8GQ1Z3VIOsQQMGYMDgGD1SwmN/nbPx5TRZ7h0rEP98Tezmm7Mj83Me3k2g5k6cnSQRjBA==
+length: 1354
+-->
